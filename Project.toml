@@ -1,0 +1,13 @@
+name = "StatsAlgorithms"
+uuid = "5787ba9d-420b-4741-a089-69fd5f2942d5"
+authors = ["Richard Zmija zmija.ryszard@protonmail.com"]
+version = "1.0.0-DEV"
+
+[compat]
+julia = "1.10"
+
+[extras]
+Test = "8dfed614-e22c-5e08-85e1-65c5234f0b40"
+
+[targets]
+test = ["Test"]
